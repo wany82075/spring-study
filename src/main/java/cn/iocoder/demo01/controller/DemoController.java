@@ -16,7 +16,7 @@ public class DemoController {
 
     @GetMapping("/echo")
     public String echo() {
-        return "echo";
+        return "echo1";
     }
 
 }
